@@ -2,25 +2,25 @@ import { motion } from 'framer-motion';
 
 const skills = {
   frontend: [
-    { name: 'React', level: 95 },
-    { name: 'TypeScript', level: 90 },
-    { name: 'Next.js', level: 88 },
-    { name: 'Tailwind CSS', level: 95 },
-    { name: 'Vue.js', level: 75 },
+    { name: 'matematika', level: 95 },
+    { name: 'biologi', level: 90 },
+    { name: 'sosiologi', level: 88 },
+    { name: 'bahasa arab', level: 95 },
+    { name: 'fisika', level: 75 },
   ],
   backend: [
-    { name: 'Node.js', level: 90 },
-    { name: 'Python', level: 85 },
-    { name: 'PostgreSQL', level: 88 },
-    { name: 'MongoDB', level: 82 },
-    { name: 'GraphQL', level: 78 },
+    { name: 'kimia', level: 90 },
+    { name: 'pjok', level: 85 },
+    { name: 'geografi', level: 88 },
+    { name: 'koding', level: 82 },
+    { name: 'tik', level: 78 },
   ],
   tools: [
-    { name: 'Git', level: 95 },
-    { name: 'Docker', level: 80 },
-    { name: 'AWS', level: 75 },
-    { name: 'Figma', level: 85 },
-    { name: 'CI/CD', level: 82 },
+    { name: 'ekonomi', level: 95 },
+    { name: 'ppkn', level: 80 },
+    { name: 'tkp', level: 75 },
+    { name: 'tiu', level: 85 },
+    { name: 'twk', level: 82 },
   ],
 };
 

@@ -13,7 +13,7 @@ const projects = [
     demo: '#',
   },
   {
-    title: 'Learning Management System',
+    title: 'Learning platform',
     description: 'Platform pembelajaran online dengan video streaming, quiz interaktif, dan progress tracking.',
     tags: ['Next.js', 'TypeScript', 'MongoDB', 'WebRTC'],
     image: '📚',
@@ -22,7 +22,7 @@ const projects = [
     demo: '#',
   },
   {
-    title: 'Social Media Dashboard',
+    title: 'Social Media platform',
     description: 'Dashboard analytics untuk social media dengan real-time data visualization dan reporting.',
     tags: ['React', 'D3.js', 'Firebase', 'Tailwind'],
     image: '📊',
@@ -31,7 +31,7 @@ const projects = [
     demo: '#',
   },
   {
-    title: 'AI Content Generator',
+    title: 'AI Content platform',
     description: 'Tool untuk generate konten menggunakan AI dengan integrasi berbagai model language.',
     tags: ['Python', 'FastAPI', 'OpenAI', 'React'],
     image: '🤖',
